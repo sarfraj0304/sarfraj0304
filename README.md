@@ -80,8 +80,6 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarfraj0304&label=Profile%20views&color=ee4e20&style=flat" alt="sarfraj0304" /> </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
