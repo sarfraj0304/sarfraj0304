@@ -33,9 +33,11 @@
 <h2 align="center">📱 Connect with me</h2>
 <br />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sarfrajahmadraza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfraj0304" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/sarfrajahmadraza"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto:sarfrajahmadraza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/sarfraj0304"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 <br />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
