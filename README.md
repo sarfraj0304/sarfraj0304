@@ -10,7 +10,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">Enthusiastic full-stack web developer with expertise in front-end and back-end technologies. Passionate about building high-quality, elegant, user-friendly, intuitive websites and applications. </h3>
+<h3 align="center">Aspiring Full-Stack Web Developer in MERN with a strong passion for technology and a deep desire to learn and grow. Passionate about building high-quality, elegant, user-friendly, intuitive websites and applications that delight users and exceed client expectations. </h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
